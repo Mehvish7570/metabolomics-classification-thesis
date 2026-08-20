@@ -1,0 +1,2 @@
+Methodology,Dataset,Best_Model,AUC,Sensitivity,Specificity,F1_score,N_train,N_test,N_features_selected
+Own Combined Method (FINAL),Jacobs,Ridge,0.8742,0.5394,0.8546,0.5079,123,18,30

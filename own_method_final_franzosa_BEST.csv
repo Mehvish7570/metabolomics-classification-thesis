@@ -1,0 +1,2 @@
+Methodology,Dataset,Best_Model,AUC,Sensitivity,Specificity,F1_score,N_train,N_test,N_features_selected
+Own Combined Method (FINAL),Franzosa,XGBoost,0.9076,0.7098,0.8468,0.704,167,44,37
